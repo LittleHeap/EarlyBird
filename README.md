@@ -10,4 +10,6 @@ Step 4 : 下载最新后台表单数据，改名为”data.xlsx“，放在文�
 
 Step 5 : 修改main.js中start和end变量为当日日期和起始时间
 
-Step 4 : 命令行进到文件夹中程序，运行main.js文件，命令行输入“node main.js”
+Step 6 : 命令行进到文件夹中程序，运行main.js文件，命令行输入“node main.js”
+
+Step 7 : 文件夹下输出的result.txt为结果文件
