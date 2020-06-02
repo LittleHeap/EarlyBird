@@ -13,3 +13,5 @@ Step 5 : 修改main.js中start和end变量为当日日期和起始时间
 Step 6 : 命令行进到文件夹中程序，运行main.js文件，命令行输入“node main.js”
 
 Step 7 : 文件夹下输出的result.txt为结果文件
+
+Step 8 : 当天每次输出result.txt文件自行改名保存，周末统一再用字典汇总统计
